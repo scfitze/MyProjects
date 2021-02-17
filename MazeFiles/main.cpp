@@ -1,7 +1,7 @@
 
 /**
-Sean Fitze
-Homework 1
+Maze Game
+A simple terminal maze game
 Main file 
 */
 #include <iostream>
